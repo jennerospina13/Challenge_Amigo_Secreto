@@ -33,10 +33,10 @@ Este proyecto fue desarrollado con:
 ```
 
 ## 🔧 Cómo ejecutar el proyecto
-1. Abrir el archivo `.html` en un navegador web y jugar.
+1. Abrir el archivo `index.html` en un navegador web y jugar.
  
 ## 🌍 Demo en vivo  
-¡Prueba la aplicación aquí! 👉 [Amigo Secreto](https://)
+¡Prueba la aplicación aquí! 👉 [Amigo Secreto](https://jennerospina13.github.io/Challenge_Amigo_Secreto/)
 
 ## 📖 Cómo contribuir
 Si tienes ideas para mejorar el proyecto, siéntete libre de hacer un **fork** y enviar un **pull request**. 🚀
